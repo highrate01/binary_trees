@@ -4,7 +4,7 @@
  * @first: a pointer to the first node
  * @second: a pointer to the second node
  * Return: a pointer to the lowest common ancestor node of the two given nodes,
- * 		else null if no common ancestor is found
+ * else null if no common ancestor is found
  */
 binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
 		const binary_tree_t *second)
